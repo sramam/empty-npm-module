@@ -1,0 +1,21 @@
+{
+  "name": "empty-npm-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postinstall.js",
+  "scripts": {
+    "postinstall": "node postinstall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sramam/empty-npm-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sramam/empty-npm-module/issues"
+  },
+  "homepage": "https://github.com/sramam/empty-npm-module#readme"
+}
